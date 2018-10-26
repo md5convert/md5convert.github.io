@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cddf8adc25e80ac65b13db3ed8b2ee71.js"
+  "/precache-manifest.06c0f570b39601feb964ccd91cad07c5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "md5convert"});
